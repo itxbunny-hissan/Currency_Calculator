@@ -1,16 +1,50 @@
-# currency_converter
+# Global Currency Converter – Flutter App
 
-A new Flutter project.
+# Description:
+A modern Flutter app for real-time currency conversion with a sleek and user-friendly interface. The app allows users to convert currencies instantly using live exchange rates and view 30-day historical trends.
 
-## Getting Started
+# Features:
 
-This project is a starting point for a Flutter application.
+Convert between multiple currencies like USD, PKR, EUR, GBP, INR, SAR, AED, JPY, and more.
 
-A few resources to get you started if this is your first Flutter project:
+Live exchange rates fetched from a reliable API.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+View detailed 30-day currency trends in an easy-to-read graph.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Intuitive UI with a modern design using Material 3 and Google Fonts.
+
+Currency selection with country flags for better visual recognition.
+
+Simple, responsive, and interactive experience.
+
+Splash screen with smooth transition to the converter screen.
+
+# Tech Stack:
+
+Flutter & Dart for cross-platform mobile development
+
+Google Fonts for elegant typography
+
+Custom Currency Service to fetch real-time rates
+
+# Usage:
+
+Enter the amount to convert.
+
+Select the source and target currencies.
+
+See the converted amount and exchange rate instantly.
+
+Tap “VIEW 30-DAY TRENDS” to see historical data.
+
+# Future Enhancements:
+
+Add more currencies dynamically from API.
+
+Offline mode with cached rates.
+
+Dark mode support.
+
+User favorites and recent conversions history.
+
+License: MIT (or your preferred license)
